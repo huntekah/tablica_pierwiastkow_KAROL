@@ -1,0 +1,22 @@
+lista_pierwiastkow = [
+    ["wodór", "H", "Hydrogenium"],
+    ["tlen", "O", "Oxygenium"],
+    ["azot", "N", "Nitrogenium"],
+    ["krzem", "Si", "Silicium"],
+    ["wapń", "Ca", "Calcium"],
+    ["żelazo", "Fe", "Ferrum"],
+    ["miedź", "Cu", "Cuprum"],
+    ["magnez", "Mg", "Magnesium"],
+    ["cynk", "Zn", "Zincum"],
+    ["fosfor", "P", "Phosphorus"],
+    ["chlor", "Cl", "Chlorum"],
+    ["siarka", "S", "Sulphur"],
+    ["węgiel", "C", "Carboneum"],
+    ["glin", "Al", "Aluminium"],
+    ["hel", "He", "Helium"],
+    ["złoto", "Au", "Aurum"],
+    ["cyna", "Sn", "Stannum"],
+    ["rtęć", "Hg", "Hydrargyrum"],
+    ["ołów", "Pb", "Plumbum"],
+    ["srebro", "Ag", "Argentum"]
+]
